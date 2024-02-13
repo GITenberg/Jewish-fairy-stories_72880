@@ -1,0 +1,33 @@
+_repo: Jewish-fairy-stories_72880
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hirschfeld, Beatrice
+    gutenberg_agent_id: '56848'
+    url: http://www.gutenberg.org/2009/agents/56848
+creator:
+  author:
+    agent_name: Friedlander, Gerald
+    gutenberg_agent_id: '56847'
+    url: http://www.gutenberg.org/2009/agents/56847
+description: ''
+gutenberg_issued: '2024-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72880'
+language: en
+pgterms:marc904: https://archive.org/details/jewishfairystori00frie/page/n7/mode/2up
+pgterms:marc905: 20210116121827friedlande
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bBloch Publishing Company, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Jewish fairy stories
+url: http://www.gutenberg.org/ebooks/72880
