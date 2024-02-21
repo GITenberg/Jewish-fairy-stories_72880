@@ -5,12 +5,17 @@ contributor:
     agent_name: Hirschfeld, Beatrice
     gutenberg_agent_id: '56848'
     url: http://www.gutenberg.org/2009/agents/56848
+covers:
+- cover_type: archival
+  image_path: 72880-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Friedlander, Gerald
     gutenberg_agent_id: '56847'
     url: http://www.gutenberg.org/2009/agents/56847
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72880#Jewish-fairy-stories
 gutenberg_issued: '2024-02-05'
 gutenberg_type: Text
 identifiers:
